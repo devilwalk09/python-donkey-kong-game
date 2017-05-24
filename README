@@ -1,0 +1,8 @@
+'P' is the player. Aim: Reach the top most floor and rescue the princess. Beware of the fireballs 'O' and the Donkey Kong 'D'. 
+Controls:
+A - Left
+D - Right
+W - Climb stairs ('H')
+S - Climb down.
+'space' - Jump. After pressing space enter A or D for direction to jump in.
+Cannot jump from stairs or from the edge of a platform.
